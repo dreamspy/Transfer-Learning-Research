@@ -20,7 +20,7 @@ Measure the effect of high level game properties (features) on the effectiveness
 
 Transfering knowledge from one game to another by means of automatic feature detection which is implemented by coalescing subtrees with terminal states (depth 2). Q-values from source game from a specific feature is used to initialize the Q-values of the corresponding feature in the target game (same feature = same Q-value). 
 
-### [A Survey on Transfer Learning - Sinno Jialin Pan and Qiang Yang](/Users/frimann/Dropbox/2018_sumar_Tolvunarfraedi_HR/Transfer Learning MS/GitRepositoryTL/Articles/3_Reading/A_Survey_on_Transfer_Learning.pdf)
+### [A Survey on Transfer Learning - Sinno Jialin Pan and Qiang Yang](Articles/3_Reading/A_Survey_on_Transfer_Learning.pdf)
 
 ### [How transferable are features in deep neural networks?](Articles/3_Reading/How_transferable_are_features_in_deep_neural_networks.pdf)
 *Yosinski, Clune, Bengio, Lipson*
