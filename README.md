@@ -25,9 +25,13 @@ Transfering knowledge from one game to another by means of automatic feature det
 ### [How transferable are features in deep neural networks?](Articles/3_Reading/How_transferable_are_features_in_deep_neural_networks.pdf)
 *Yosinski, Clune, Bengio, Lipson*
 
+
+## Reading Plan
+
 ### [RUDDER: Return Decomposition for Delayed Rewards](Articles/3_Reading/RUDDER_Return_Decomposition_for_Delayed_Rewards.pdf)
 *Jose A. Arjona-Medina ∗ Michael Gillhofer ∗ Michael Widrich ∗ Thomas Unterthiner Sepp Hochreiter*
 
-### [](Articles/3_Reading/Transfer_Learning_Torrey.pdf)
+A new Reinforcement Learning based methood, exponentialy faster than MCTS, they say...
 
-## Reading Plan
+### [Transfer Learning](Articles/3_Reading/Transfer_Learning_Torrey.pdf)
+*Lisa Torrey and Jude Shavlik*
