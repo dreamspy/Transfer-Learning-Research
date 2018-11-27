@@ -1,5 +1,5 @@
 
-#Excerpt: DeepChess- End-to-End Deep Neural Network for Automatic Learning in Chess
+# Excerpt: DeepChess- End-to-End Deep Neural Network for Automatic Learning in Chess
 
 
 ## Main idea
